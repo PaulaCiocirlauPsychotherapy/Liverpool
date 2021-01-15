@@ -31,6 +31,20 @@ th {
         text-align: center;
 }
 
+.right-de {
+        position: absolute;
+        margin-left: 60%;
+        width: 700px;
+        text-align: center;
+}
+
+.right-ro {
+        position: absolute;
+        margin-left: 60%;
+        width: 700px;
+        text-align: center;
+}
+
 #more-info{
         position: absolute;
         margin-top:25%;
