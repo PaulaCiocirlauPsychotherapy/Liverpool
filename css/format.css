@@ -1,0 +1,458 @@
+/* general */
+
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0em;
+    padding: 0em;
+    overflow: auto;
+    }
+
+/* body of the website */
+
+th {
+        text-align: left;
+        color:#2a5a7a;
+}
+
+.Paula {
+        float: left;
+        border-radius: 20%;
+}
+
+.warning {
+        color:#D00000;
+}
+
+.right {
+        position: absolute;
+        margin-left: 50%;
+        width: 700px;
+        text-align: center;
+}
+
+#more-info{
+        position: absolute;
+        margin-top:25%;
+        margin-left:-10%;
+        width:700px;
+}
+
+.left-li{
+        float:left;
+        margin-top: 45%;
+        margin-left:30%;
+}
+
+.right-li{
+        float:right;
+        margin-top: 45%;
+        margin-left: 3%;
+}
+
+.bold {
+        font-weight: bolder;
+        list-style-type: none;
+        color:#2a5a7a;
+}
+
+#inhaltbody {
+           width: 100%;
+           height: 100%;
+           margin: auto;
+           padding: 0em;
+           text-align: center;
+           background-color: rgb(252, 208, 160);
+           font-family: Verdana, Arial, Helvetica, sans-serif;
+           font-size: 0.8em;
+           line-height: 1.5em;
+           overflow: auto;
+           }
+
+/* body fuer folgeseiten */
+
+#folgebody {
+          width: 100%;
+          height: 100%;
+          margin: 0em;
+          padding: 0em;
+          background-color: rgb(252, 208, 160);
+          font-family: Verdana, Arial, Helvetica, sans-serif;
+          font-size: 0.8em;
+          line-height: 1.5em;
+          }
+
+/* heading 1 */
+
+/*  heading 1 */
+
+h1 {
+  color: #2a5a7a;
+  font-size: 2.5em;
+  }
+
+/*  heading 1 up */
+
+.h1a {
+    text-align: left;
+    margin: 0em 0em 0em 0.35em;
+    font-size: 2.4em;
+    }
+
+/*  heading 1 down */
+
+.h1b {
+    text-align: right;
+    margin-right: 0.25em;
+    font-size: 2.4em;
+    }
+
+/*  heading 1 for the start of the website */
+
+.h1start {
+        font-size: 2.4em;
+        line-height: 2.4em;
+        margin: 2.5em auto auto auto;
+        }
+
+/*  heading 2 */
+
+h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #2a5a7a;
+  margin-bottom: 0.5em;
+  }
+
+/*  heading 2 start */
+
+h2.start {
+        font-size: 1.4em;
+        font-weight: bold;
+        color: #2a5a7a;
+        margin-bottom: 0.5em;
+        }
+
+/* heading 2 for offer site */
+
+h2.angebot {
+          font-size: 1.4em;
+          font-weight: bold;
+          color: #2a5a7a;
+          margin-bottom: 0.5em;
+          }
+
+/* paragraph */
+
+p {
+ margin-top: 0em;
+ }
+
+
+
+/* container */
+
+#inhalt {
+        width: 64em;
+        height: 42em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: -32em;
+        margin-top: -21em;
+        padding: 0em;
+        text-align: left;
+        }
+
+/* upper area next page */
+
+#oben2 {
+     width: 50em;
+     height: 8em;
+     position: absolute;
+     margin: 2em auto 0em 5em;
+     padding: 2em 0em 0em 0em;
+     text-align: center;
+     }
+
+#oben {
+     width: 42em;
+     height: 8em;
+     position: absolute;
+     margin: 2em auto 0em 10em;
+     padding: 2em 0em 0em 0em;
+     text-align: center;
+     }
+
+/* Positioning the heading on the home page */
+
+#oben1 {
+     width: 56em;
+     height: 5em;
+     position: absolute;
+     margin: 3em 3.5em 0em 3.5em;
+     padding: 2em 0em 0em 0em;
+     text-align: center;
+     }
+
+/* left area */
+
+#links {
+      width: 22em;
+      height: 16.4em;
+      position: absolute;
+      margin: 12.9em 0em 0em 0em;
+      padding: 1em 0em 0em 0em;
+      text-align: center;
+      float: left;
+      }
+
+/* middle area */
+
+#zentrum {
+        width: 17em;
+        height: 17em;
+        padding: 0em;
+        position: absolute;
+        margin: 12.9em 0em 0em 23em;
+        float: left;
+        }
+
+/* positioning logo on home page */
+
+#zentrum1 {
+        width: 17em;
+        height: 17em;
+        padding: 0em;
+        position: absolute;
+        margin: 10em 0em 0em 23em;
+        text-align: center;
+        float: left;
+        }
+
+/* right area */
+
+#rechts {
+       width: 23em;
+       height: 16.4em;
+       margin: 12.9em 0em 0em 0em;
+       float: right;
+       padding: 1em 0em 0em 0em;
+       text-align: center;
+       }
+
+/* down area */
+
+#unten {
+      width: 30em;
+      height: 8em;
+      position: absolute;
+      margin: 31em 16.3em 0em 16.3em;
+      padding: 0em;
+      text-align: center;
+      }
+
+/* area for flags on home page */
+
+#unten1 {
+      width: 40em;
+      height: 8em;
+      position: absolute;
+      margin: 30em 0em 0em 12em;
+      padding: 0em;
+      text-align: left;
+      }
+
+/* content on subpages */
+
+#inhalt2 {
+        width: 60em;
+        height: 32em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: -30em;
+        margin-top: -20em;
+        text-align: left;
+        padding: 0em;
+        }
+
+/* navigation bar */
+
+#navigation {
+           width: 60em;
+           height: 32em;
+           }
+
+/* navigation text */
+
+.nav {
+    margin: -6.1em 0em 0em 6em;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1.5em;
+    }
+
+/* Logo */
+
+.logo {
+     text-align: left;
+     }
+/* heading */
+.ueberschrift {
+             color: #2a5a7a;
+             font-weight: bold;
+             font-size: 1.8em;
+             margin: -14em 0em 0em 10.4em;
+             width: 16em;
+             height: 1em;
+             text-align: right;
+             }
+/* text area on the following pages */
+
+#text {
+     width: 36.5em;
+     height: 23em;
+     margin: 0em;
+     position: absolute;
+     top: 12em;
+     left: 20em;
+     padding: 0px;
+     }
+
+/* unordered list */
+
+ul {
+  margin: 0em 0em 0em 1.2em;
+  }
+
+/* link definition */
+
+a:link {
+      text-decoration: none;
+      color: #2a5a7a;
+      font-weight: bold;
+      }
+
+a:visited {
+         text-decoration: none;
+         color: #2a5a7a;
+         font-weight: bold;
+         }
+
+a:focus  {
+        text-decoration: none;
+        color: #2a5a7a;
+        font-weight: bold;
+        text-decoration: underline;
+        }
+
+a:hover  {
+        text-decoration: none;
+        color: #2a5a7a;
+        font-weight: bold;
+        text-decoration: underline;
+        }
+
+a:active {
+        text-decoration: none;
+        color: #2a5a7a;
+        font-weight: bold;
+        }
+
+/* picture of the link */
+
+.bildlink {
+         border: 0em;
+         width: 16.75em;
+         height: 17.15em;
+         }
+
+.bildlink1 {
+         border: 0em;
+         width: 9.7em;
+         height: 10.65em;
+         }
+
+/* profile pic*/
+
+.imre {
+     float: left;
+     margin: 0em 1em 0em 0em;
+     border: 0em;
+     width: 7.85em;
+     height: 8.6em;
+     }
+
+.symb {
+     float: left;
+     margin: 0em 1em 0em 0em;
+     border: 0em;
+     width: 3.9em;
+     height: 1.4em;
+     }
+
+/* picture of the house */
+
+.haus {
+     float: left;
+     margin: 0em 1em 0em 0em;
+     border: 0em;
+     width: 7.5em;
+     height: 11em;
+     }
+
+/* picture Chamber of Commerce */
+
+.wko {
+    border: 0em;
+    margin: 1em 0em 0em 0em;
+    width: 13.2em;
+    height: 1.8em;
+    }
+
+
+/* Flag Pictures */
+
+.flagge {
+       margin: 0em;
+       border: 0em;
+       width: 2.4em;
+       height: 1.6em;
+       }
+
+/* table for about page */
+
+.table-about {
+     margin-top: 40%;
+     margin-left: 33%; 
+     padding: 0em;
+     width:100%;
+     height: 4em;
+     }
+
+/* table cells for about page */
+
+.td-about {
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+  }
+
+ /* table for alignment of flags and labeling */ 
+
+  table {
+        padding: 0em;
+        margin: 2em auto auto auto;
+        width: 31em;
+        height: 4em;
+        }
+   
+/* table cells */
+   
+   td {
+     text-align: center;
+     padding: 0px;
+     margin: 0px;
+     width: 5em;
+   }
