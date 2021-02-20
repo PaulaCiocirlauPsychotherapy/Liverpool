@@ -9,6 +9,14 @@ body {
 	font-size: x-large;
 }
 
+.language_bar {
+	color: #fff;
+}
+
+.language_bar:hover {
+	color: #fff;
+}
+
 #white {
 	margin-top: 10%;
 	color:rgb(255, 255, 255);
