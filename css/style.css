@@ -400,8 +400,8 @@ body {
 }
 
 @media screen and (max-width: 600px) {
-	.main{
-   		 font-size: 30px;
+	.titleMessage .heading .main {
+		font-size: 30px;
 	}
 }
 
