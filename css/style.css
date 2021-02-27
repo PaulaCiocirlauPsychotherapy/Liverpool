@@ -1,9 +1,3 @@
-@media screen and (max-width: 600px) {
-	.main{
-   		 font-size: 30px;
-	}
-}
-
 body {
 	font-size: 14px;
     color: #333;
@@ -405,7 +399,11 @@ body {
 	background: url(../img/loader.gif) center center no-repeat;
 }
 
-
+@media screen and (max-width: 600px) {
+	.main{
+   		 font-size: 30px;
+	}
+}
 
 
 
