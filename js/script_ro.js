@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Terapie individual&#x103;.", "Terapie de familie/grup.","Terapie de cuplu.","Rezolvarea crizelor.","Dezvoltare personală.", "Dezvoltare."],
+		strings: ["Terapie individual&#x103;.", "Terapie de familie/grup.","Terapie de cuplu.","Rezolvarea crizelor.","Dezvoltare personală."],
 		typeSpeed: 100,
 		loop: true,
 		startDelay: 500,
