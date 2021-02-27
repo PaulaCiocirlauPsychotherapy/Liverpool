@@ -401,7 +401,7 @@ body {
 
 @media screen and (max-width: 600px) {
 	.titleMessage .heading .main {
-		font-size: 30px;
+		font-size: 20px;
 	}
 	div#white h4 {
     		font-size: 15px;
