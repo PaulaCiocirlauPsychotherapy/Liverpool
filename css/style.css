@@ -403,6 +403,9 @@ body {
 	.titleMessage .heading .main {
 		font-size: 30px;
 	}
+	div#white h4 {
+    		font-size: 15px;
+	}
 }
 
 
