@@ -430,7 +430,25 @@ body {
 		float: right;
 		height: 120px;
 		width: auto;
-		margin-top: -92px;
+		margin-top: -70px;
+		margin-left: 5px;
+	}
+}
+
+@media screen and (max-width: 1206px){
+		.leftContactImage {
+		float: left;
+		width: 200px;
+		height: 200px;
+		margin-top: -108px;
+		margin-right: 5px;
+	}
+
+	.rightContactImage {
+		float: right;
+		height: 120px;
+		width: auto;
+		margin-top: 12px;
 		margin-left: 5px;
 	}
 }
