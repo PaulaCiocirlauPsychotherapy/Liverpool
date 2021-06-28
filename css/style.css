@@ -5,6 +5,12 @@ body {
     letter-spacing: 1px;
 }
 
+.contactImages {
+	float:right;
+	max-width: 300px;
+	max-height: 300px;
+}
+
 .nav-link {
 	font-size: x-large;
 }
