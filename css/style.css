@@ -424,6 +424,16 @@ body {
 	div#white h4 {
     		font-size: 15px;
 	}
+	.leftContactImage {
+	 	width: 200px;
+		height: 200px;
+		margin-top: 15px;
+	}
+	.rightContactImage {
+	 	height: 120px;
+		width: auto;
+		margin-top: 15px;
+	}    
 }
 
 
