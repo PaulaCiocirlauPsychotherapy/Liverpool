@@ -399,10 +399,16 @@ body {
 	background: url(../img/loader.gif) center center no-repeat;
 }
 
-.contactImages {
+.lefttContactImage {
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+.rightContactImage {
 	float: right;
-	max-width: 300px;
-	max-height: 300px;
+	width: 200px;
+	height: 200px;
 }
 
 @media screen and (max-width: 600px) {
