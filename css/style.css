@@ -404,6 +404,8 @@ body {
 	width: 200px;
 	height: 200px;
 	margin-top: -108px;
+	margin-left: 96px;
+	margin-right: 5px;
 }
 
 .rightContactImage {
@@ -411,6 +413,8 @@ body {
 	height: 120px;
 	width: auto;
 	margin-top: -92px;
+	margin-right: 28px;
+	margin-left: 5px;
 }
 
 @media screen and (max-width: 600px) {
