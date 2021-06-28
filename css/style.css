@@ -403,12 +403,14 @@ body {
 	float: left;
 	width: 200px;
 	height: 200px;
+	margin-top: -92px;
 }
 
 .rightContactImage {
 	float: right;
-	width: 200px;
-	height: 200px;
+	height: 120px;
+	width: auto;
+	margin-top: -92px;
 }
 
 @media screen and (max-width: 600px) {
