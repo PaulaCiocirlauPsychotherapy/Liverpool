@@ -417,6 +417,10 @@ body {
 	margin-left: 5px;
 }
 
+.leftContactButton {
+	margin-left: 300px;	
+}
+
 @media screen and (max-width: 1476px){
 		.leftContactImage {
 		float: left;
