@@ -425,7 +425,7 @@ body {
 	float: right;
 	height: 120px;
 	width: auto;
-	margin-top: -361px;
+	margin-top: -450px;
 	margin-right: 28px;
 	margin-left: 5px;
 }
@@ -535,19 +535,45 @@ body {
 	.titleMessage .heading .main {
 		font-size: 20px;
 	}
+
 	div#white h4 {
-    		font-size: 15px;
+		font-size: 15px;
 	}
+
+	#about .col-md-4,
+	#about .col-md-6 {
+		text-align: center;
+	}
+
+	.aboutImage {
+		display: block;
+		margin: 0 auto 16px;
+		height: auto;
+		max-height: 360px;
+		max-width: 90%;
+	}
+
+	.copyrightSection .rightContactImage {
+		float: none;
+		display: block;
+		margin: 16px auto 0;
+		height: 80px;
+		width: auto;
+	}
+
 	.rightContactImage {
-	 	height: 120px;
+		height: 120px;
 		width: auto;
 		margin-top: 15px;
-	}    
+	}
+
 	.leftContactButton {
-	margin-left: 0px;	
+		margin-left: 0;
+	}
+	.copyrightSection::after {
+		max-height: 200px;
 	}
 }
-
 
 
 
