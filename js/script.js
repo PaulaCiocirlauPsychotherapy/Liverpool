@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Individual Therapy.", "Family/Group Therapy.","Couple Therapy.","Crisis Resolution.","Personal Growth.", "Development."],
+		strings: ["Individual Therapy.", "Family/Group Therapy.","Couple Therapy.","Crisis Resolution.","Personal Growth.", "Personal Development."],
 		typeSpeed: 100,
 		loop: true,
 		startDelay: 500,
